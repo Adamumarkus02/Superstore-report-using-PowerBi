@@ -33,15 +33,19 @@ The highest order can be obtained by using the clustered column bar to draw rela
  ![image](https://github.com/user-attachments/assets/a7ca0dae-f450-4028-bce3-33aff98fc972)
 
 **2.	What is the profit margin accrued by each category?**
+
  ![image](https://github.com/user-attachments/assets/5181ca11-008b-4e00-b16e-a7afeeb91c03)
 
 **3.	In which city does the store have more orders?**
+
 ![image](https://github.com/user-attachments/assets/d604b57c-100e-4a8e-8def-675e543a09ab)
  
 **4.	Which sub-category has more sales?**
+
  ![image](https://github.com/user-attachments/assets/327f8dea-05be-4db7-84ff-4bf99a083666)
 
 **5.	What City yields more sales?**
+
 ![image](https://github.com/user-attachments/assets/6646dcdb-7fd5-437b-b820-75054b265fa7)
 
 ## Conclusion 
