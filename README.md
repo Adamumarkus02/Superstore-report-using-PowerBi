@@ -10,6 +10,7 @@ We will load the dataset in excel format into powerbi.  If data is clean, we can
 ## Data Cleaning/Transformation
 Here, we check if the format of each column is correct and correct it were necessary. We also address inconsistencies in the columns to ensure a more accurate dataset for analysis
 - Now, we format the Sales, Profit and Discount columns to display currency
+
 ## Data Exploration/Visualization 
 This is where we answered specific business questions for sale performance analysis using charts and tiles. Some of these questions include:
 1.	Which Category has the highest orders
@@ -19,11 +20,11 @@ This is where we answered specific business questions for sale performance analy
 5.	What City yields more sales
 ### KEY PERFORMANCE INDICATORS
 Before going ahead to answer the question, we first need to specify the KPI (Key Performance Indicators). The KPI include the Sales, Quantity, Profit, Profit Margin and Discount. This is done by creating measures and using DAX to calculate the total sales, profit, quantity, discount and to derive our Profit Margin
-- Sales: We use SUM function to get total sales
-- Quantity: SUM of quantity in the dataset
-- Profit: SUM of profit in the data set
-- Profit Margin: This is the calculation of total profit DIVIDED by total sales multiplied by 100
-- Discount: SUM of total discount in the dataset
+- **Sales**: We use SUM function to get total sales
+**- Quantity:** SUM of quantity in the dataset
+**- Profit**: SUM of profit in the data set
+**- Profit Margin:** This is the calculation of total profit DIVIDED by total sales multiplied by 100
+**- Discount:** SUM of total discount in the dataset
   
 We the use the KPI tile to visualize our KPI. We could also use the Card tile.
 
